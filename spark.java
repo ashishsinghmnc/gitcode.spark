@@ -5,4 +5,7 @@ public class spark {
     public void main(){
         System.out.println("m1g");
     }
+    public void notifyuser(){
+        System.out.println("hello users");
+    }
 }
