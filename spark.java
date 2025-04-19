@@ -3,6 +3,6 @@ public class spark {
         System.out.println("hello owrld");
     }
     public void main(){
-        System.out.println("m1g");
+        System.out.println("m1");
     }
 }
